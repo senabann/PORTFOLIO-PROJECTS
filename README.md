@@ -46,3 +46,4 @@ Roll out proactive public safety campaigns, upgrade safety-related infrastructur
 📄 Files Included
 TorontoHydro_Performance_Analysis.pdf: Full project report outlining methodology, results, and visualizations.
 
+📄 [Download Full Report (PDF)](./TORONTO%20HYDRO%20BI%20STRATEGY%20.pdf)
